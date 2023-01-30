@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 30 09:31:52 2023
 
-@author: dcs839
+@author: Sorennorge
 """
 
 ### Overview table of TPM, SD, and p-value between light and dark phase ###
