@@ -26,6 +26,6 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 
 ### Generate overview table and overview table of transport ###
 Requirements:
-Metadata table of transport (example in script). \
+Metadata table of transport (example in script). 
 
 3.1.1 - Overview table of light and dark phase
