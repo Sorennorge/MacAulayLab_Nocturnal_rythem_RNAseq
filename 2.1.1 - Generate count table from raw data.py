@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 30 09:21:33 2023
 
-@author: dcs839
+@author: Sorennorge
 """
 
 #### Convert RNA-STAR gene count files to csv ###
