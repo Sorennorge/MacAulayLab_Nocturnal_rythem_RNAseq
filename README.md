@@ -22,3 +22,10 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 
 ### Generate count table ###
 
+2.1.1 - Generate count table from raw data.py 
+
+### Generate overview table and overview table of transport ###
+Requirements:
+Metadata table of transport (example in script)\
+
+3.1.1 - Overview table of light and dark phase
